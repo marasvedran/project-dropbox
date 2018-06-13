@@ -3,7 +3,7 @@ File upload with angular 2 and node.js
 
 ##Quick Setup
 
-- Navigate into the node app `cd file-upload/node-app`
+- Navigate into the node app `cd project-dropbox/node-app`
 - Install Dependencies `npm install`
 - Install gulp globally `npm install gulp -g`
 - To start the node server `gulp`
